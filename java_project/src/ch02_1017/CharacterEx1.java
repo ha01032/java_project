@@ -21,6 +21,9 @@ public class CharacterEx1 {
 		char ch3 = '한';
 		char ch4 = '\uD55C';
 		
+		
+		 
+		
 		System.out.println(ch3);
 		System.out.println(ch4);
 
